@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmoralesRV
+- 👋 Hi there!
 - 👀 I’m interested in Mobile and Web Apps
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Flutter and React.js apps
